@@ -15,11 +15,10 @@ Given the influx in domain-specific languages, and the explosion of architectura
 
 ## Teaching Staff
 
-We have a great teaching staff this quarter! All of them have lots of experience in compilers. Yanwen is 2nd year PhD student who did his undergrad at UCSC; Arrian and Neal took this class last quarter. Please get to know them and take advantage of the office hours and mentoring sessions they provide
+We have a great teaching staff this quarter! All of them have lots of experience in compilers. Please get to know them and take advantage of the office hours and mentoring sessions they provide
 
-- *Grad TA*: Yanwen Xu
-- *Undergrad Mentor/Grader*: Arrian Chi
-- *Undergrad Mentor/Grader*: Neal Chokshi
+- *Grad TAs*: Devon McKee, Rithik Sharma
+- *Undergrad Mentors/Graders*: Sanya Srivastava, Arrian Chi, Gurpreet Dhillon
 
 ## Necessary Background
 
@@ -47,7 +46,7 @@ This class will be split into 5 modules, each of which are roughly two weeks:
 
 ## Class Format
 
-Each class is 65 minutes. I plan to stay after class for roughly 10 minutes to answer questions
+Each class is 65 minutes. I plan to stay after class for roughly 15 minutes to answer questions. Please be respectful of time and make sure that everyone who stays afterwards is able to see me. We will meet out in the hallway so we do not disturb the next class.
 
 _Non-protected materials_ will be hosted on this website. This includes the schedule, lecture slides, and references, etc.
 
@@ -63,7 +62,7 @@ Depending on the availability of recording equiptment, I will upload recordings 
 
 ## Quiz
 
-There will be a quiz for each lecture. These quizes will be assigned immediately after class and you will have until the next class starts to do them. Your answers are **not** graded, but your submission is. These are meant to test your understanding. These will account for 10% of your class grade. We reserve the right to remove points on an individual basis if we feel that there is not sufficient effort put into the quiz.
+There will be a quiz for each lecture. These quizes will be assigned immediately after class and you will have until the next class starts to do them. . These are meant to test your understanding, and will not be graded for correctness, but instead, graded for engagement. Any multiple choice question will be awarded full points: any open response question will be graded on if there was some sign of engagement (e.g., a few thoughtful sentences written). These quizes will account for 10% of your class grade. 
 
 You can miss up to 3 quizes without penalty.
 
@@ -75,9 +74,9 @@ UC Santa Cruz is committed to creating an academic environment that supports its
 
 ### Instructor Office Hours:
 
-I will provide 2 office hours per week: Thursdays from 3 - 5 PM. 
+I will provide 2 office hours per week (TBD, probably thursday 3 - 5 PM)
 
-My office hours can be remote or in-person. My physical office is E2-233 (no nameplate yet, but I'm working on it!). I will provide a Zoom link on canvas. I manage the office hours through a Google doc sign-up sheet. I will reset the list around noon on Thursday and notify with a canvas announcement. Any name on the list before then will be erased.
+My office hours can be remote or in-person. My physical office is E2-233. I will provide a zoom link closer to the time. I manage the office hours through a Google doc sign-up sheet. I will reset the list around noon on Thursday and notify with a canvas announcement. Any name on the list before then will be erased.
 
 Please sign up for only 1 slot at a time. If there is no other student waiting at the end of your slot, you are welcome to stay. If you want to discuss an issue that you think others might also be interested in, please add the issue to the spreadsheet. If you see your issue listed, please add your name and we add more people to the discussion. 
 
@@ -85,17 +84,11 @@ The sign-up sheet is meant to provide fairness; as such I will be strict about k
 
 ### TA Office Hours:
 
-Mondays from 1 PM to 2 PM (Virtual)
-
-Fridays from 2 PM to 3 PM (Room BE-151)
-
-Yanwen's office hours will be hybrid and he will use a similar sign-up sheet.
+TBD
 
 ### Mentoring Hours:
 
-Arrian is Tuesday from 1 PM to 3 PM, virtual.
-
-Neal is Wednesday 1:30 PM - 2:30 PM, virtual; and Friday 2 PM to 3 PM sharing a room with Yanwen.
+TBD
 
 ## Asynchronous Communication
 
@@ -107,32 +100,20 @@ We will strive to reply to homework questions and discussions within 24 hours. D
 
 ## Homework:
 
-There will be one assignment per module, for a total of 5 homeworks.
+We plan to redesign our homework setup to be more scalable and provide automated feedback. To do this, we will use github classroom. Because this is a new setup, there may be some friction getting started. We appreciate your patience and understanding. I will update the class as we make progress.
 
-We will host a docker container that includes the necessary environment (compilers, libraries) for the homeworks. You are free to run this docker from your local machine. It is required that your homeworks execute successfully inside the docker. The homeworks will also specify a submission format (e.g. a directory structure). Please strictly adhere to this, as it helps with grading.
+While we don't have all the details yet, we will provide a docker for you to develop in. We plan to enable a git-based workflow where you push your current solution to a repo and receive feedback from a server. You will be graded on the server feedback rather than the results from your own machine. This is to help provide fair (and scalable) grading across the increasing diversity of devices that everyone has these days. 
 
-Homeworks are due at midnight on their due date, but do not plan on help after 5 pm (as mentioned above). Homework will be submitted on canvas.
+Homeworks are due at midnight on their due date, but do not plan on help after 5 pm.
+
+This class has homeworks that build on each other, that is, later homeworks will use earlier homeworks. We will provide reference solutions so that your later homeworks are not impacted by mistakes in earlier homeworks. Because of this, we cannot accept late homeworks and we will be strict about this. Please keep this in mind. It is a good idea to plan to have homeworks done in advance, or upload checkpoints.
 
 ## Tests:
 
-There will be two asynchronous tests in this course: a midterm and a final. The midterm will roughly be worth as much as a single homework assignment (~10%). The final will be worth 30%.
+There will be two tests in this course: a midterm and a final. The midterm will roughly be worth as much as a single homework assignment (~10%). The final will be worth 30%.
 
-You will get the test as pdf worksheet and have a set time to complete it. You have 1 week for the midterm, and you have all day (8 AM to Midnight) for the final. 
-
-The midterm will be given halfway through the class: Monday May 2; it will be due Friday May 6.
-The final will be given on 	Tuesday, June 7	
-
-I will design the tests to take ~120 minutes. These are open note/book/internet tests. However, it is not open friend or question. That is, while the test is active, you are not allowed to discuss the test with another person (either in the class or online). For example, you *can* google concepts that are on the test. You *cannot* post a test question to stackoverflow.
-
-_a note on timing_: my tests are designed to take 120 minutes *if* they were given in-person. In practice, students take much longer on take-home tests because you can spend time validating answers and less time studying before hand. Because of this, many students spend much longer on take-home tests. Please consider this when budgeting time.
-
-_a note on academic integrity_: I like giving take home tests. I feel like it is more representative of the types of challenges you will face in your careers. However, if we find any cheating, we will move to in-person, timed, proctored exams. Please do not cheat.
-
-## Late Policy:
-
-Assignments are docked 10% per day late up to 3 days. After that they will no longer be accepted. No assignment will be accepted after the day of our final. This is unversity policy, not mine.
-
-The midterm and final will not be accepted late.
+The midterm will be given halfway through the class: XXX
+The final will be given on: Monday, June 12	8:00–11:00 a.m.
 
 ## Grade Breakdown
 
@@ -155,7 +136,7 @@ This class has a zero tolerance policy on cheating. Please don't do it. I would 
 
 ## Privacy
 
-I will largely be using Zoom for remote lectures, and I plan to record in-person lectures as well. You should be aware that:
+I plan to record in-person lectures, and in case I need to be remote, I will use zoom. Please keep the following in mind:
 
 - Things you do or say will be recorded. I doubt that this will be an issue, but if you want me to remove any part of the recording, please just let me know.
 - Many forums (e.g. zoom chats, Piazza posts, etc.) chats are not private. Please be respectful and kind and assume everyone can see what you are typing.
