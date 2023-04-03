@@ -9,7 +9,7 @@ paginate_path: /page:num/
 
 repository: "SorensenUCSC/CSE110A-sp2023"
 
-baseurl: "/CSE110A-sp2022"
+baseurl: "/CSE110A-sp2023"
 
 plugins:
   - jekyll-feed
