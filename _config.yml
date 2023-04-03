@@ -1,4 +1,4 @@
-title: "CSE 110A, Spring 2022"
+title: "CSE 110A, Spring 2023"
 description: "Fundamentals of Compiler Design"
 
 remote_theme: "mmistakes/minimal-mistakes"
@@ -7,7 +7,7 @@ minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "default", "dark", "di
 paginate: 5 # number of posts to show
 paginate_path: /page:num/
 
-repository: "SorensenUCSC/CSE110A-sp2022"
+repository: "SorensenUCSC/CSE110A-sp2023"
 
 baseurl: "/CSE110A-sp2022"
 
