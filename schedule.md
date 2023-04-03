@@ -39,24 +39,24 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Mon, May 1      | Intro to IRs and ASTs | |EAC Chapter 5.1
 | Wed, May 3      | ASTs and type checking | | EAC Chapter 4.2
 | Fri, May 5     | ASTs and type checking 2  | | EAC Chapter 4.2
-| Mon, May 8     | ASTs and type checking 3 |  | EAC Chapter 5.3
-| Wed, May 10     | Converting ASTs into 3 address code | | EAC Chapter 5.3
+| Mon, May 8     | MIDTERM ||
+| Wed, May 10     | ASTs and type checking 3 |  | EAC Chapter 5.3
 | Fri, May 12     | Converting statements into 3 address code | | EAC Chapter 5.3
+| Mon, May 15      | Converting statements into 3 address code | | EAC Chapter 5.3
 
 ### Module 4: Optimizations
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Mon, May 15      | HW 3 overview and intro to optimizations        | | EAC Chapter 8.1
-| Wed, May 17     | Optimization overview |  | EAC Chapter 8.1
-| Fri, May 19     | Basic blocks and local value numbering |  | EAC Chapter 8 (up to 8.5)
-| Mon, May 22     | Local value numbering 2 |  | EAC Chapter 8 (up to 8.6)
-| Wed, May 24     | Loop transforms |   | EAC Chapter 7.8
-| Fri, May 26     | Loop transforms 2 |  | EAC Chapter 7.8
-| Wed, May 31     | Loop transforms 3|  |
-| Fri, June 2     | Control Flow Graphs |  | EAC Chapter 8.6.1
-| Mon, June 5     | Live variable Analysis || EAC Chapter 8.6.1
-| Wed, June 7     | OverFlow
+| Wed, May 17     |  HW 3 overview and intro to optimizations        | | EAC Chapter 8.1
+| Fri, May 19     |  Optimization overview |  | EAC Chapter 8.1
+| Mon, May 22     | Basic blocks and local value numbering |  | EAC Chapter 8 (up to 8.5)
+| Wed, May 24     | Local value numbering 2 |  | EAC Chapter 8 (up to 8.6)
+| Fri, May 26     | Loop transforms |   | EAC Chapter 7.8
+| Wed, May 31     | Loop transforms 2 |  | EAC Chapter 7.8
+| Fri, June 2     | Loop transforms 3|  |
+| Mon, June 5     | Control Flow Graphs |  | EAC Chapter 8.6.1
+| Wed, June 7     | Live variable Analysis || EAC Chapter 8.6.1
 | Fri, June 9     | OverFlow
 
 ## Final
