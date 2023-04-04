@@ -38,7 +38,7 @@ This class will be split into 5 modules, each of which are roughly two weeks:
 
 * **Module 2: Parsing** 
 
-* **Module 3: Intermidiate Representations** 
+* **Module 3: Intermediate Representations** 
 
 * **Module 4: Optimizations**  
  
