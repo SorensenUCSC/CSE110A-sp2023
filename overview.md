@@ -84,11 +84,15 @@ The sign-up sheet is meant to provide fairness; as such I will be strict about k
 
 ### TA Office Hours:
 
-TBD
+Devon is available on Mondays from 1 PM to 3 PM, virtual.
+
+Rithik is available on Fridays from 3 PM to 5 PM, TBD.
+
+Rithik’s office hours will be hybrid and he will use a similar sign-up sheet.
 
 ### Mentoring Hours:
 
-TBD
+Arrian is available on Thursdays from 1 PM to 3 PM, virtual.
 
 ## Asynchronous Communication
 
