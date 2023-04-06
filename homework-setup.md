@@ -89,4 +89,4 @@ While the details of running Docker containers are unnecessary for this course, 
 
 ## Useful Docker commands
 
-* `docker container prune` Each `docker run` creates a new container, it will stop when you exit. **Do not create a new container each time you want to work on your project**. Using `docker run` for the initial setup and then exiting and calling `docker start` whenever you want to resume development is the recommended workflow. Having a bunch of Docker containers can take a lot of space, fast. Some time it is useful to prune all stopped containers by running `docker container prune` to gain some space. 
+* `docker container prune`: Each `docker run` execution creates a new container, it will stop when you exit. **Do not create a new container each time you want to work on your project**. Using `docker run` for the initial setup and then exiting and calling `docker start` whenever you want to resume development is the recommended workflow. Having a bunch of Docker containers can take a lot of space, fast. Some time it is useful to prune all stopped containers by running `docker container prune` to gain some space. 
