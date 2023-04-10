@@ -84,15 +84,21 @@ The sign-up sheet is meant to provide fairness; as such I will be strict about k
 
 ### TA Office Hours:
 
-Devon is available on Mondays from 1 PM to 3 PM, virtual.
+Devon is available on Tuesdays from 3:00PM to 5:00PM, virtual.
 
-Rithik is available on Fridays from 3 PM to 5 PM, TBD.
+Devon will use the Zoom waiting room feature, and answer questions first-come-first-serve. Please try to keep your question within 10 minutes. 
+
+Zoom Link: https://ucsc.zoom.us/j/6705118855?pwd=alQ1SmlFbzFXMlQrYVFET1JiK1pJQT09
+
+Rithik is available on Fridays from 3:00PM to 5:00PM, TBD.
 
 Rithik’s office hours will be hybrid and he will use a similar sign-up sheet.
 
 ### Mentoring Hours:
 
-Arrian is available on Thursdays from 1 PM to 3 PM, virtual.
+Arrian is available on Thursdays from 1:00PM - 3:00PM, virtual.
+
+Neal is available on Tuesdays and Thursdays, 6:30PM - 7:30PM, TBD.
 
 ## Asynchronous Communication
 
