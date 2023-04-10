@@ -88,7 +88,8 @@ Devon is available on Tuesdays from 3:00PM to 5:00PM, virtual.
 
 Devon will use the Zoom waiting room feature, and answer questions first-come-first-serve. Please try to keep your question within 10 minutes. 
 
-Zoom Link: https://ucsc.zoom.us/j/6705118855?pwd=alQ1SmlFbzFXMlQrYVFET1JiK1pJQT09
+[Zoom Link](https://ucsc.zoom.us/j/6705118855?pwd=alQ1SmlFbzFXMlQrYVFET1JiK1pJQT09)
+
 
 Rithik is available on Fridays from 3:00PM to 5:00PM, TBD.
 
