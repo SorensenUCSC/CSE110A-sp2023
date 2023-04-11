@@ -99,7 +99,7 @@ Rithik’s office hours will be hybrid and he will use a similar sign-up sheet.
 
 Arrian is available on Thursdays from 1:00PM - 3:00PM, virtual.
 
-Neal is available on Tuesdays and Thursdays, 6:30PM - 7:30PM, TBD.
+Neal is available on Tuesdays and Thursdays, 6:30PM - 7:30PM, [virtual](https://ucsc.zoom.us/j/99946604176?pwd=NlQ3MWRxbXZsK2kzOVdzTVNTVmdrZz09).
 
 ## Asynchronous Communication
 
