@@ -97,7 +97,7 @@ Rithik’s office hours will be hybrid and he will use a similar sign-up sheet.
 
 ### Mentoring Hours:
 
-Arrian is available on Thursdays from 1:00PM - 3:00PM, virtual.
+Arrian is available on Tuesdays and Thursdays from 1:00PM - 3:00PM, [virtual](https://ucsc.zoom.us/j/4286863705?pwd=dnhxUWk0bkJZNVQ5UTVlVkNycmtUQT09).
 
 Neal is available on Tuesdays and Thursdays, 6:30PM - 7:30PM, [virtual](https://ucsc.zoom.us/j/99946604176?pwd=NlQ3MWRxbXZsK2kzOVdzTVNTVmdrZz09).
 
