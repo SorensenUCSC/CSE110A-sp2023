@@ -30,7 +30,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Mon, April 24     | Left recursion and lookahead in parsing  (ASYNCHRONOUS LECTURE)  | [slides](https://sorensenucsc.github.io/CSE110A-sp2022/lectures/CSE110AApril18_sp2022.pdf) | EAC Chapter 3.3 (first half)
 | Wed, April 26     | CLASS CANCELED | | 
 | Fri, April 28     | Recursive descent parsers and symbol tables   | [slides](lectures/CSE110AApril28_sp2023.pdf)  | EAC Chapter 3.3 (second half)
-| Mon, May 1     | Symbol Tables and parser generators |   | [ply documentation](https://www.dabeaz.com/ply/ply.html)
+| Mon, May 1     | Symbol Tables and parser generators |   [slides](lectures/CSE110AMay1_sp2023.pdf) | [ply documentation](https://www.dabeaz.com/ply/ply.html)
 
 
 
