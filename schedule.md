@@ -31,6 +31,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Wed, April 26     | CLASS CANCELED | | 
 | Fri, April 28     | Recursive descent parsers and symbol tables   | [slides](lectures/CSE110AApril28_sp2023.pdf)  | EAC Chapter 3.3 (second half)
 | Mon, May 1     | Symbol Tables and parser generators |   [slides](lectures/CSE110AMay1_sp2023.pdf) | [ply documentation](https://www.dabeaz.com/ply/ply.html)
+| Wed, May 3     | Parser Generators |   [slides](lectures/CSE110AMay3_sp2023.pdf) | [ply documentation](https://www.dabeaz.com/ply/ply.html)
 
 
 
@@ -38,28 +39,27 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Mon, May 1      | Intro to IRs and ASTs | |EAC Chapter 5.1
-| Wed, May 3      | ASTs and type checking | | EAC Chapter 4.2
-| Fri, May 5     | ASTs and type checking 2  | | EAC Chapter 4.2
+| Fri, May 5      | Intro to IRs and ASTs | |EAC Chapter 5.1
 | Mon, May 8     | MIDTERM ||
-| Wed, May 10     | ASTs and type checking 3 |  | EAC Chapter 5.3
-| Fri, May 12     | Converting statements into 3 address code | | EAC Chapter 5.3
-| Mon, May 15      | Converting statements into 3 address code | | EAC Chapter 5.3
+| Wed, May 10       | ASTs and type checking | | EAC Chapter 4.2
+| Fri, May 12     | ASTs and type checking 2  | | EAC Chapter 4.2
+| Mon, May 15    | ASTs and type checking 3 |  | EAC Chapter 5.3
+| Wed, May 17      | Converting statements into 3 address code | | EAC Chapter 5.3
+| Fri, May 19     | Converting statements into 3 address code | | EAC Chapter 5.3
 
 ### Module 4: Optimizations
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Wed, May 17     |  HW 3 overview and intro to optimizations        | | EAC Chapter 8.1
-| Fri, May 19     |  Optimization overview |  | EAC Chapter 8.1
-| Mon, May 22     | Basic blocks and local value numbering |  | EAC Chapter 8 (up to 8.5)
-| Wed, May 24     | Local value numbering 2 |  | EAC Chapter 8 (up to 8.6)
-| Fri, May 26     | Loop transforms |   | EAC Chapter 7.8
-| Wed, May 31     | Loop transforms 2 |  | EAC Chapter 7.8
-| Fri, June 2     | Loop transforms 3|  |
-| Mon, June 5     | Control Flow Graphs |  | EAC Chapter 8.6.1
-| Wed, June 7     | Live variable Analysis || EAC Chapter 8.6.1
-| Fri, June 9     | OverFlow
+| Mon, May 22     |  HW 3 overview and intro to optimizations        | | EAC Chapter 8.1
+| Wed, May 24    |  Optimization overview |  | EAC Chapter 8.1
+| Fri, May 26      | Basic blocks and local value numbering |  | EAC Chapter 8 (up to 8.5)
+| Wed, May 31    | Local value numbering 2 |  | EAC Chapter 8 (up to 8.6)
+| Fri, June 2     | Loop transforms |   | EAC Chapter 7.8
+| Mon, June 5    | Loop transforms 2 |  | EAC Chapter 7.8
+| Wed, June 7     | Loop transforms 3|  |
+| Fri, June 9      | Control Flow Graphs |  | EAC Chapter 8.6.1
+| IF TIME     | Live variable Analysis || EAC Chapter 8.6.1
 
 ## Final
 
