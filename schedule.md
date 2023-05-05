@@ -39,7 +39,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Fri, May 5      | Intro to IRs and ASTs | |EAC Chapter 5.1
+| Fri, May 5      | Intro to IRs and ASTs | [slides](lectures/CSE110AMay5_sp2023.pdf)  | EAC Chapter 5.1
 | Mon, May 8     | MIDTERM ||
 | Wed, May 10       | ASTs and type checking | | EAC Chapter 4.2
 | Fri, May 12     | ASTs and type checking 2  | | EAC Chapter 4.2
