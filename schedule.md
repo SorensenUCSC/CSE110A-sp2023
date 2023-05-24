@@ -51,8 +51,8 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 
 | Date             | Topic    | Slides |   Readings
 |------------------|----------|--------|----------------
-| Mon, May 22     |  HW 3 overview and intro to optimizations        | | EAC Chapter 8.1
-| Wed, May 24    |  Optimization overview |  | EAC Chapter 8.1
+| Mon, May 22     |  Midterm overview and intro to optimizations        | ON CANVAS | EAC Chapter 8.1
+| Wed, May 24    |  Optimization overview | [slides](lectures/CSE110AMay24_sp2023.pdf) | EAC Chapter 8.1
 | Fri, May 26      | Basic blocks and local value numbering |  | EAC Chapter 8 (up to 8.5)
 | Wed, May 31    | Local value numbering 2 |  | EAC Chapter 8 (up to 8.6)
 | Fri, June 2     | Loop transforms |   | EAC Chapter 7.8
