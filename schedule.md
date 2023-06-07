@@ -57,7 +57,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Wed, May 31    | Local value numbering 2 |  [slides](lectures/CSE110AMay31_sp2023.pdf)  | EAC Chapter 8 (up to 8.6)
 | Fri, June 2     | Loop transforms | [slides](lectures/CSE110AJune2_sp2023.pdf)  | EAC Chapter 7.8
 | Mon, June 5    | Neal and Rithik guest lecture | [Rithik](lectures/LLVM_CSE110A.pdf)  | 
-| Wed, June 7     | Loop transforms 2 |  | EAC Chapter 7.8
+| Wed, June 7     | Loop transforms 2 |  (lectures/CSE110AJune7_sp2023.pdf) | EAC Chapter 7.8
 | Fri, June 9      | Class review |  | 
 | IF TIME     | Live variable Analysis || EAC Chapter 8.6.1
 
