@@ -58,7 +58,7 @@ _Unless explicitly mentioned, Readings will refer to Engineering a Compiler (EAC
 | Fri, June 2     | Loop transforms | [slides](lectures/CSE110AJune2_sp2023.pdf)  | EAC Chapter 7.8
 | Mon, June 5    | Neal and Rithik guest lecture | [Rithik](lectures/LLVM_CSE110A.pdf)  | 
 | Wed, June 7     | Loop transforms 2 |  [slides](lectures/CSE110AJune7_sp2023.pdf) | EAC Chapter 7.8
-| Fri, June 9      | Class review |  | 
+| Fri, June 9      | Class review |  [slides](lectures/CSE110AJune9_sp2023.pdf) | 
 | IF TIME     | Live variable Analysis || EAC Chapter 8.6.1
 
 ## Final
